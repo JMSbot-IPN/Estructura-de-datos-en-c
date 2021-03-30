@@ -1,0 +1,5 @@
+resultado Enero -19
+resultado Febrero 91
+resultado Marzo 55
+resultado Abril -91
+resultado Mayo 19
